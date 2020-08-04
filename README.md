@@ -1,13 +1,13 @@
 ## About CMS Laravel
 Cms Laravel which build on Laravel Framework
-required > laravel 7x
+requirement 
+laravel 7x or higher
 
 ## Install
 
-```$xslt
+```shell script
 php artisan migrate
+php artisan db:seed
 ```
 
 ## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
