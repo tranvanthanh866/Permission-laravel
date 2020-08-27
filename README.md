@@ -14,6 +14,8 @@ Route:
 
 /admin/roles, admin/permissions, admin/users
 
+Account: admin@admin.com pass 12345678
+
 ## Source code
 in folder /modules
 
